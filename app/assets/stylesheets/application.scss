@@ -1,0 +1,8 @@
+@import "materialize/components/color";
+$primary-color: green !default;
+$secondary-color: black !default;
+@import 'materialize';
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html {
+font-family: 'Montserrat', sans-serif;
+}
